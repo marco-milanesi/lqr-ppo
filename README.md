@@ -23,8 +23,8 @@ _This repository contains two laboratory exercises focused on understanding opti
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#1-linear-quadratic-regulator-lqr">1. Linear Quadratic Regulator (LQR)</a></li>
-    <li><a href="##2-reinforcement-learning-through-ppo">2. Reinforcement Learning through PPO</a></li>
+    <li><a href="#linear-quadratic-regulator-lqr">Linear Quadratic Regulator (LQR)</a></li>
+    <li><a href="#reinforcement-learning-through-ppo">Reinforcement Learning through PPO</a></li>
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -32,7 +32,7 @@ _This repository contains two laboratory exercises focused on understanding opti
 </details>
 
 
-## 1. Linear Quadratic Regulator (LQR)
+## Linear Quadratic Regulator (LQR)
 `TP1_Forearm_movements_and_LQR_model.ipynb`  introduces LQR by first performing basic manipulations of the data and then manually applying the LQR.
 I The data used in this laboratory exercise come from a 2011 experiment where participants aimed towards a thin line using 5 different strategies ranging from fast to precise. The data can be found in the `Dataset` folder.
 
@@ -41,7 +41,7 @@ The lab has 4 parts: the first part is about basic manipulations of the data, an
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 2. Reinforcement Learning through PPO
+## Reinforcement Learning through PPO
 
 `TP2_Forearm_movements_and_PPO.ipynb` focuses on using the model-free reinforcement learning algorithm, PPO, to solve the optimization problem. The laboratory exercise uses the stable-baselines3 library, which contains an implementation of PPO. 
 
