@@ -38,12 +38,16 @@ I The data used in this laboratory exercise come from a 2011 experiment where pa
 
 The lab has 4 parts: the first part is about basic manipulations of the data, and visualizing that data. The second and third part are ”courses”, and we will treat them together. The fourth part is about applying what you just learned in the course.
 
+![img1lqr](https://user-images.githubusercontent.com/47824890/217682300-3ea6c82d-a958-4fe1-b6c8-c5ea9b7ddfb0.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Reinforcement Learning through PPO
 
 <a href=https://github.com/marco-milanesi/lqr-ppo/blob/main/Source/Reinforcement%20Learning%20through%20PPO.ipynb>`./Source/Reinforcement Learning through PPO.ipynb`</a>  focuses on using the model-free reinforcement learning algorithm, PPO, to solve the optimization problem. The laboratory exercise uses the stable-baselines3 library, which contains an implementation of PPO. 
+
+![img1ppo](https://user-images.githubusercontent.com/47824890/217682361-220791af-5189-4c2d-b448-ad98dd04e325.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
